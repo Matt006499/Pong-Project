@@ -19,3 +19,5 @@ game.
 6. If the user does not want to play the game anymore, have them exit the program so they can stop playing the game.
 
 # Screenshots from the Project/Game
+![Screenshot (59)](https://user-images.githubusercontent.com/45078168/69999301-522f6600-1526-11ea-85fd-5e8d68d255c9.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/45078168/69999302-53609300-1526-11ea-9e21-95d85dcfe725.png)
