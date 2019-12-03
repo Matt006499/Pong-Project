@@ -7,8 +7,7 @@ The game itself is a typical Pong Game. The user and the opponent have to use a 
 the most points from playing the game. Whoever gets the most points wins then game.
 
 # Controls 
-The controls for the game are fairly straightforward, with the Up and Down buttons used to move the paddle(s) while you are playing the 
-game. 
+The controls for the game are fairly straightforward, with the Up and Down buttons used for Player 2's paddle while pressing the W and S buttons are used to control Player 1's paddle. 
 
 # Steps to Compile and Run The Game
 1. Before making the project, create an outline that showcases what the project should look like before coding it
